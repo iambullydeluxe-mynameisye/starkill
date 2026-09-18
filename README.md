@@ -1,4 +1,4 @@
-<p align="center"><img src="AppLogo.png" width="175"/></p>
+<p align="center"><img src="AppLogo.jpg" width="175"/></p>
 <h1 align="center">starkill</h1>
 <p align="center">
   <strong>Lightweight Android M3E player with lossless playback</strong><br>
