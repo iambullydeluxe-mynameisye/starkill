@@ -1,1 +1,28 @@
-404: Not Found
+<p align="center"><img src="assets/AppLogo.png" width="175"/></p>
+<h1 align="center">starkill</h1>
+<p align="center">
+  <strong>Lightweight Android M3E player with lossless playback</strong><br>
+  Playful M3E player with animated UI, Apple Music-style lyrics, and remote libraries
+</p>
+<p align="center">
+  <img src="MainPage.png" width="24%"/>
+  <img src="AlbumView.png" width="24%"/>
+  <img src="PlayerView.png" width="24%"/>
+  <img src="FullscreenLyricsModeView.png" width="24%"/>
+</p>
+
+# Features
+- **Lyrics 1:1 Apple Music** _(blur and all effects, supports letter-by-letter lyrics)_
+- **Hi-Res Lossless playback**
+- **Tag system** _(only trough remote library if supported so)_
+- **Playful animated M3E interface** _(Material 3 Expressive)_
+- **Remote library & streaming support** _(self hosted library with minimal setup of HTTP server with SSL)_
+- **Lightweight** _(by performance && app size)_
+- **Build-in libraries for free**
+- **Listening statistics** _(how much was spent listening to artist/playlist/track/album per day/weeks/months/all time)_
+
+#### All releases support any Android architecture _(like v8, v7a, x86_64 and other)_
+
+# Other
+- [**How to setup self-hosted remote library** _(LVP Type)_](SetupLVP_Indexer.md)
+- [**Build-in libraries**](BuildIn_Libraries.md)
