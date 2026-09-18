@@ -1,14 +1,14 @@
-<p align="center"><img src="assets/AppLogo.png" width="175"/></p>
+<p align="center"><img src="AppLogo.png" width="175"/></p>
 <h1 align="center">starkill</h1>
 <p align="center">
   <strong>Lightweight Android M3E player with lossless playback</strong><br>
   Playful M3E player with animated UI, Apple Music-style lyrics, and remote libraries
 </p>
 <p align="center">
-  <img src="MainPage.png" width="24%"/>
-  <img src="AlbumView.png" width="24%"/>
-  <img src="PlayerView.png" width="24%"/>
-  <img src="FullscreenLyricsModeView.png" width="24%"/>
+  <img src="MainPageView.jpg" width="24%"/>
+  <img src="AlbumView.jpg" width="24%"/>
+  <img src="PlayerView.jpg" width="24%"/>
+  <img src="LyricsView.jpg" width="24%"/>
 </p>
 
 # Features
